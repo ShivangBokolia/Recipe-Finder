@@ -1,5 +1,5 @@
 # Product Scanner
-<h2>The project uses Python to build a Barcode Detector along with a Barcode reader. The Barcode value is then stored in a CSV file. Moreover, this project uses the Wegman's API in order to collect data and access it to perform certain tasks.</h2>
+<h2>The project uses Python to build a Barcode Detector along with a Barcode reader. The Barcode value is then stored in a CSV file that is then accessed by the Java file to get the Product details. Moreover, this project uses the Wegman's API in order to collect data and access it to perform certain tasks.</h2>
 
 <h3>Motive:</h3>
 <p>Few days after grocery shopping, a customer doesn't remember hw many things that he had bought are left with him. Whether he finished using them or are they still there in his kitchen. Due to this problem, most of the time the customer cannot even decide what to eat or cook for that day. 
